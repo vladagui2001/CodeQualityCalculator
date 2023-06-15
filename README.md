@@ -1,2 +1,2 @@
 # CodeQualityCalculator
-Calculadora de Vlad Enrique, Ricardo Puente y Rocío
+Calculadora de Vlad Enrique, Ricardo Puente, Rocío Marco y el Profe Juan Carlos Neri
